@@ -1,9 +1,19 @@
 
-
 <div align="center">
-    <img style="box-shadow: 3px 3px 3px #333333;" src="https://github-profile-trophy.vercel.app/?username=errorgenerator&theme=onedark&no-frame=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=errorgenerator&theme=gruvbox&show_icons=true&hide_border=true"/>
 </div>
 
 <div align="center">
-    <img style="box-shadow: 3px 3px 3px #333333;" src="https://streak-stats.demolab.com?user=errorgenerator&theme=onedark&hide_border=true"/>
+    <img align="center" src="https://streak-stats.demolab.com?user=errorgenerator&theme=gruvbox&hide_border=true"/>
+</div>
+
+
+<div aling="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errorgenerator&theme=gruvbox&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=errorgenerator&theme=gruvbox"/>
+</div>
+
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=errorgenerator&theme=gruvbox&no-frame=true"/>
 </div>
