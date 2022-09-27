@@ -8,8 +8,8 @@
 </div>
 
 
-<div aling="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errorgenerator&theme=gruvbox&layout=compact&hide_border=true" />
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errorgenerator&theme=gruvbox&layout=compact&hide_border=true"/>
 </div>
 
 <div align="center">
