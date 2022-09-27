@@ -1,5 +1,5 @@
 
----
+
 ## Overview:
 
 <div align="center">
@@ -10,7 +10,6 @@
     <img align="center" src="https://streak-stats.demolab.com?user=errorgenerator&theme=nord&hide_border=true"/>
 </div>
 
----
 
 ## Languages and Tools:
 
@@ -26,7 +25,6 @@
     </div>
 </div>
 
----
 
 ## Stats:
 
@@ -38,10 +36,10 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=errorgenerator&theme=nord_dark&utcOffset=8"/>
 </div>
 
-<div>
+<div align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=errorgenerator&theme=nord_dark"/>
 </div>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=errorgenerator&theme=nord&no-frame=true"/>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=errorgenerator&theme=nord&no-frame=true"/>
 </div>
