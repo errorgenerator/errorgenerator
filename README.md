@@ -74,9 +74,11 @@ Have some meaningless stats about me:
     <div>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errorgenerator&theme=nord&layout=compact&hide_border=true"/>
     </div>
+    <br>
     <div>
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=errorgenerator&theme=nord_dark"/>
     </div>
+    <br>
     <div align="center">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=errorgenerator&theme=nord_dark&"/>
     </div>
