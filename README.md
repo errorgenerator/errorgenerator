@@ -1,6 +1,8 @@
 
 
-## Overview:
+<h1 align="center">Welcome to my Profile <img src="https://c.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="35"/></h1>
+
+## :technologist: About Me:
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=errorgenerator&theme=nord&show_icons=true&hide_border=true"/>
