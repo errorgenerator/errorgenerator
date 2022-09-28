@@ -27,15 +27,6 @@
 
 ## Stuff I use or like:
 
-```mermaid
-
-
-graph TD;
-    A --> B;
-    B --> C;
-
-```
-
 
 ### OS, WM, Editors, Tools, etc:
 
