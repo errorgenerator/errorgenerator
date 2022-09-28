@@ -10,13 +10,14 @@
 
 **CS-Student from :de: Germany :de:**
 
-* :computer: Working in Magento2-development with a focus on backend and the development of standalone spring-boot-microservices.
-* :seedling: Currently learning Rust and Kotlin.
-* :leaves: Soft spot for everything having to do with microservices.
-* :keyboard: obsessed with wayland compositors and mechanical keyboards.
-* :people_holding_hands: I'm down for collaboration on cool projects.
-* :coffee: Caffeine addict.
-* :speech_balloon: Ask me about anything.
+* **:computer: Working in Magento2-development with a focus on backend and the development of standalone spring-boot-microservices.**
+* **:seedling: Currently learning Rust and Kotlin.**
+* **:leaves: Soft spot for everything having to do with microservices.**
+* **:keyboard: Obsessed with wayland compositors and mechanical keyboards.**
+* **:people_holding_hands: I'm down for collaboration on cool projects.**
+* **:coffee: Caffeine addict.**
+* **:speech_balloon: Ask me about anything.**
+* **🪢 Getting entagled in multiple projects at once.**
 
 ### :speech_balloon: Contact me:
 
