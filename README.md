@@ -15,6 +15,9 @@
 * :keyboard: obsessed with wayland compositors and mechanical keyboards.
 * :people_holding_hands: I'm down for collaboration on cool projects.
 * :coffee: Caffeine addict.
+* :speech_balloon: Ask me about anything.
+
+### :speech_balloon: Contact me:
 
 
 ## Languages and Tools:
