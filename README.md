@@ -1,16 +1,20 @@
 
 
-<h1 align="center">Welcome to my Profile <img src="https://c.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="35"/></h1>
-
-## :technologist: About Me:
+<h1 align="center">Hey there! <img src="https://c.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="35"/></h1>
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=errorgenerator&theme=nord&show_icons=true&hide_border=true"/>
 </div>
 
-<div align="center">
-    <img align="center" src="https://streak-stats.demolab.com?user=errorgenerator&theme=nord&hide_border=true"/>
-</div>
+## :technologist: About Me:
+
+**CS-Student from :de: Germany :de:**
+
+* :computer: Working in Magento2-development with a focus on backend.
+* :seedling: Currently learning Rust and Kotlin.
+* :keyboard: obsessed with wayland compositors and mechanical keyboards.
+* :people_holding_hands: I'm down for collaboration on cool projects.
+* :coffee: Caffeine addict.
 
 
 ## Languages and Tools:
@@ -45,18 +49,24 @@
 
 ## Stats:
 
+Have some useless stats about me:
+<br>
+<div align="center">
+    <img align="center" src="https://streak-stats.demolab.com?user=errorgenerator&theme=nord&hide_border=true"/>
+</div>
+<br>
 <div align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=errorgenerator&theme=nord_dark"/>
 </div>
-
+<br>
 <div align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=errorgenerator&theme=nord_dark&utcOffset=8"/>
 </div>
-
+<br>
 <div align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=errorgenerator&theme=nord_dark"/>
 </div>
-
+<br>
 <div align="center">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=errorgenerator&theme=nord&no-frame=true"/>
 </div>
