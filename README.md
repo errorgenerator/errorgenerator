@@ -21,7 +21,7 @@
 
 ### :speech_balloon: Contact me:
 
-<a href="https://discord.com/channels/444474001298030592"><img src="https://img.shields.io/badge/-find_me_on_discord_(welwei%233703)-5865f2?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.com/users/444474001298030592"><img src="https://img.shields.io/badge/-find_me_on_discord_(welwei%233703)-5865f2?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 <a href="mailto: tilman.sattler@outlook.de"><img src="https://shields.io/badge/-send_me_an_email-0078d4?&style=for-the-badge&logo=microsoft-outlook"/></a>
 
