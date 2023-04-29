@@ -17,7 +17,7 @@
 * **:people_holding_hands: I'm down for collaboration on cool projects.**
 * **:coffee: Caffeine addict.**
 * **:speech_balloon: Ask me about anything.**
-* **🪢 Getting entagled in multiple projects at once.**
+* **🪢 Getting entangled in multiple projects at once.**
 
 ### :speech_balloon: Contact me:
 
