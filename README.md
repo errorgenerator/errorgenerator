@@ -76,7 +76,6 @@
 
 Have some meaningless stats about me:
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errorgenerator&hide=css&layout=compact&show_icons=true&theme=default#gh-light-mode-only"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errorgenerator&hide=css&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only"/>
-</div>
+[![Errorgenerator langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=errorgenerator&hide=css&layout=compact&show_icons=true&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=errorgenerator&hide=css&layout=compact&show_icons=true&theme=default#gh-light-mode-only)
+
+[![Errorgenerator langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=errorgenerator&hide=css&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=errorgenerator&hide=css&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)
