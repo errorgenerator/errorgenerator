@@ -3,7 +3,8 @@
 <h1 align="center">Hey there! <img src="https://c.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="35"/></h1>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=errorgenerator&show_icons=true&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=errorgenerator&show_icons=true&theme=default#gh-light-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=errorgenerator&show_icons=true&theme=dark#gh-dark-mode-only" />
 </div>
 
 ## :technologist: About Me:
@@ -75,4 +76,7 @@
 
 Have some meaningless stats about me:
 
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errorgenerator&hide=css&layout=compact&show_icons=true&theme=default#gh-light-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errorgenerator&hide=css&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only"/>
+</div>
