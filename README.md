@@ -2,10 +2,10 @@
 
 <h1 align="center">Hey there! <img src="https://c.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="35"/></h1>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=errorgenerator&show_icons=true&theme=default#gh-light-mode-only"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=errorgenerator&show_icons=true&theme=dark#gh-dark-mode-only" />
-</div>
+
+
+[![Errorgenerator GH stats-Dark](https://github-readme-stats.vercel.app/api?username=errorgenerator&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=errorgenerator&show_icons=true&theme=dark#gh-dark-mode-only)
+[![Errorgenerator GH stats-Light](https://github-readme-stats.vercel.app/api?username=errorgenerator&show_icons=true&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=errorgenerator&show_icons=true&theme=default#gh-light-mode-only)
 
 ## :technologist: About Me:
 
